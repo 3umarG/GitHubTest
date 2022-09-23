@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         println("This is My Second Commit")
         println("Another Feature on Second Branch")
+        println("Another Feature 2 on Second Branch")
     }
 }
