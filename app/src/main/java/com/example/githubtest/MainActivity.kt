@@ -11,6 +11,5 @@ class MainActivity : AppCompatActivity() {
         print("This is First Commit on First Branch")
 
         println("The Last Feature ")
-        print("This is Bug !!!!!!!!!!!!!!!")
     }
 }
