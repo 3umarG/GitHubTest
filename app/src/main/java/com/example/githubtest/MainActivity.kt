@@ -11,5 +11,8 @@ class MainActivity : AppCompatActivity() {
         println("This is My Second Commit")
         println("Another Feature on Second Branch")
         println("Another Feature 2 on Second Branch")
+        println("This is My Third  Commit")
+        print("This is First Commit on First Branch")
+        println("The Last Feature On FirstBranch")
     }
 }
