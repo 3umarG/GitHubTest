@@ -1,6 +1,6 @@
 package com.example.githubtest
 
-class FinalClass(val name : String) {
+class FinalClass(private val name : String) {
     // Final Class
 
     fun print() = name
