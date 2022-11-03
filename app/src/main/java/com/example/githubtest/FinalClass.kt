@@ -1,5 +1,7 @@
 package com.example.githubtest
 
-class FinalClass {
+class FinalClass(val name : String) {
     // Final Class
+
+    fun print() = name
 }
